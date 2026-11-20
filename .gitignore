@@ -1,0 +1,5 @@
+*.rock
+/spark-operator-src/
+/parts/
+/stage/
+/prime/
